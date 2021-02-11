@@ -8,15 +8,15 @@ We want to write automated tests with SpecFlow and Selenium for the following We
 
 ![image](https://user-images.githubusercontent.com/1689586/107687002-9c75b080-6cae-11eb-8e05-03b8cfbd2cc1.png)
 
-## Screenshots
+## Screenshots from Visual Studio
 
 ![image](https://user-images.githubusercontent.com/1689586/107687078-b2837100-6cae-11eb-8924-d5ea3eb953a2.png)
 
 ![image](https://user-images.githubusercontent.com/1689586/107687112-c16a2380-6cae-11eb-84a2-451083b3ff75.png)
 
-## Notes
+## Install the SpecFlow Visual Studio Extension First!
 
-To compile this project, first isnattll the SpecFlow Visual Studio Extension:
+To compile this project, first install the SpecFlow Visual Studio Extension:
 
 ![image](https://user-images.githubusercontent.com/1689586/107687324-042bfb80-6caf-11eb-8302-79c38d44d2bf.png)
 
