@@ -1,4 +1,4 @@
-# SpecFlowTests-CalculatorApp
+# SpecFlowTests for the "Number / Metric Calculator" Web App
 Sample C# SpecFlow-based BDD Tests for a Web App "Number / Metric Calculator"
 
 ## Automated BDD Tests
