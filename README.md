@@ -23,4 +23,5 @@ To compile this project, first install the SpecFlow Visual Studio Extension:
 ![image](https://user-images.githubusercontent.com/1689586/107687328-07bf8280-6caf-11eb-859a-7f09176a80dd.png)
 
 If you have the SpecFlow extension, you will be able to create SpecFlow projects:
+
 ![image](https://user-images.githubusercontent.com/1689586/107687337-0aba7300-6caf-11eb-9851-7b6387a932e5.png)
